@@ -1,0 +1,19 @@
+*{
+    background: lightblue;
+    font-size: 19px;
+    font-family: 'Courier New', Courier;
+}
+
+p{
+    text-align: center;
+    padding-top: 18px;
+}
+
+h1{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
